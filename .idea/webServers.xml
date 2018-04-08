@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3c76421c-bc7d-4bfc-9462-723612d475b1" name="VM-Servidor Web" url="http://192.168.1.11">
+        <fileTransfer host="192.168.1.11" port="22" rootFolder="/var/www/" accessType="SFTP" username="facundo" password="df9bdf98df99df9e">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
